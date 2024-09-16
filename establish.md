@@ -3,9 +3,9 @@
 
 1.windows个性化修改，关闭更新，决定是否添加办公三件套
 
-2.QQ，微信，音乐，游戏，chrome，steam，obs，markdown，latex
+2.QQ，微信，音乐，游戏，chrome，steam，obs，markdown，latex，clash
 
-3.clash
+3.现在可以通过备份恢复了
 
 4.vscode(https://blog.csdn.net/m0_62721576/article/details/127207028)
 
