@@ -3,7 +3,7 @@
 
 1.windows个性化修改，关闭更新，决定是否添加办公三件套
 
-2.QQ，微信，音乐，游戏，chrome，steam，obs
+2.QQ，微信，音乐，游戏，chrome，steam，obs，markdown，latex
 
 3.clash
 
